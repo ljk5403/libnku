@@ -1,0 +1,6 @@
+#To be edited
+template/
+buffer/
+#Mac .DS_Store
+.DS_Store
+*/.DS_Store
