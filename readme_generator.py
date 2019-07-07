@@ -39,12 +39,14 @@ def get_dir_struct(sdir,pdir,level):
     print(tab_adder(level-1)+'['+pdir+']('+convert_to_GFM_Anchor(sourcelib+sdir)+')  ',file=f)
     names = [name for name in listdir_nohidden(sdir)
             if os.path.isfile(os.path.join(sdir, name))]
+    names.sort()
     let_README_first(names)
     for x in names:
         print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
 
     dirnames = [name for name in listdir_nohidden(sdir)
             if os.path.isdir(os.path.join(sdir, name))]
+    dirnames.sort()
     for x in dirnames:
         get_dir_struct(sdir+'/'+x,x,level+1)
 
