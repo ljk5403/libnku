@@ -4,6 +4,7 @@
 维护者会定期通过此脚本更新目录。
 写给维护者：
 请务必确保该文件在项目文件夹内运行！
+由于markdown语法的缘故，文件名之间的空格肯能会导致链接失效，请在push前后均检查一下！
 """
 import os
 
@@ -24,24 +25,28 @@ def tab_adder(level):
         string+="    "
     return string+"- "
 
+def convert_to_GFM_Anchor(string):
+    new_string=string
+    return new_string.replace(' ','-')
+
 def let_README_first(names):
     """将README.md放在第一个"""
     if 'README.md' in names:
         names.remove('README.md')
         names.insert(0,'README.md')
 
-def get_dir_struct(sdir,level):
-    print(tab_adder(level-1)+'['+sdir+']('+sourcelib+sdir+')',file=f)
+def get_dir_struct(sdir,pdir,level):
+    print(tab_adder(level-1)+'['+pdir+']('+convert_to_GFM_Anchor(sourcelib+sdir)+')  ',file=f)
     names = [name for name in listdir_nohidden(sdir)
             if os.path.isfile(os.path.join(sdir, name))]
     let_README_first(names)
     for x in names:
-        print(tab_adder(level)+'['+x+']('+sourcelib+sdir+'/'+x+')  ',file=f)
+        print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
 
     dirnames = [name for name in listdir_nohidden(sdir)
             if os.path.isdir(os.path.join(sdir, name))]
     for x in dirnames:
-        get_dir_struct(sdir+'/'+x,level+1)
+        get_dir_struct(sdir+'/'+x,x,level+1)
 
 
 tf1=open("./template/global_readme_template1.md","r")
@@ -50,7 +55,7 @@ print(template1,file=f)
 tf1.close()
 
 for x in sourcedir:
-    get_dir_struct(x,1)
+    get_dir_struct(x,x,1)
 
 tf2=open("./template/global_readme_template2.md","r")
 template2=tf2.read()
