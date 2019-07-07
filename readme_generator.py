@@ -8,7 +8,9 @@
 """
 import os
 
-sourcelib="https://github.com/ljk5403/libnku/tree/master/" #GitHub支持的本仓库跳转
+sourcelib="https://github.com/ljk5403/libnku/tree/master/"
+#用于README等直接展示的文档
+downloadlib="https://github.com/ljk5403/libnku/raw/master/" #用于直接下载
 sourcedir=["A类课","B类课","C类课","D类课","E类课","专业攻略"]
 f=open("README.md","w")
 
@@ -42,7 +44,10 @@ def get_dir_struct(sdir,pdir,level):
     names.sort()
     let_README_first(names)
     for x in names:
-        print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
+        if x.endswith(".md"):
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
+        else:
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(downloadlib+sdir)+'/'+x+')  ',file=f)
 
     dirnames = [name for name in listdir_nohidden(sdir)
             if os.path.isdir(os.path.join(sdir, name))]
