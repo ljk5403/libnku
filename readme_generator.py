@@ -8,9 +8,14 @@
 """
 import os
 
-sourcelib="https://github.com/ljk5403/libnku/tree/master/"
-#用于README等直接展示的文档
+#"""这个网址模版本用于GitHub，但为了方便大家下载，在gitee建立了镜像
+sourcelib="https://github.com/ljk5403/libnku/tree/master/" #用于README等直接展示的文档
 downloadlib="https://github.com/ljk5403/libnku/raw/master/" #用于直接下载
+#"""
+"""由于gitee限制大于1M的文件必须登录下载，弃之
+sourcelib="https://gitee.com/libnku/libnku/tree/master/" #用于README等直接展示的文档
+downloadlib="https://gitee.com/libnku/libnku/raw/master/" #用于直接下载
+"""
 sourcedir=["A类课","B类课","C类课","D类课","E类课","专业攻略"]
 f=open("README.md","w")
 
