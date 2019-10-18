@@ -30,7 +30,7 @@
 
 ## 使用方法
 
-1. 直接在[资料目录](#资料目录)中选择文件浏览/下载。建议**每科资源先看README.md**，内有很多提示信息。
+1. 直接在[资料目录](#资料目录)中选择文件浏览/下载。在当前网页查找课程的关键词（全名或一部分，不建议缩写）可以快速找到需要的资料。建议**每科资源先看README.md**，内有很多提示信息。
 2. 用户友好型网站：建设中……
 
 ## 资料目录
@@ -61,6 +61,13 @@
     - [多元分析](https://github.com/ljk5403/libnku/tree/master/B类课/多元分析)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/B类课/多元分析/README.md)  
         - [多元分析--考试及解答--2015级.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/多元分析/多元分析--考试及解答--2015级.pdf)  
+    - [大一第二学期高数期末试题合集（非信息类）](https://github.com/ljk5403/libnku/tree/master/B类课/大一第二学期高数期末试题合集（非信息类）)  
+        - [2007—2012级经济类高数第二学期试题（答案见另一个Word）.doc](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/2007—2012级经济类高数第二学期试题（答案见另一个Word）.doc)  
+        - [2007—2013级物理类高数第二学期场论部分真题详解(仅供参考！)by兆筱.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/2007—2013级物理类高数第二学期场论部分真题详解(仅供参考！)by兆筱.pdf)  
+        - [2007—2013级物理类高数第二学期试题（含答案）.doc](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/2007—2013级物理类高数第二学期试题（含答案）.doc)  
+        - [2010—2012级管理类高数第二学期试题（答案见另一个Word）.doc](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/2010—2012级管理类高数第二学期试题（答案见另一个Word）.doc)  
+        - [2014-2017级第二学期高数结课统考试题（含答案）.doc](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/2014-2017级第二学期高数结课统考试题（含答案）.doc)  
+        - [经济类&管理类高数真题答案(仅供参考！)(级数部分)(带部分解析)by兆筱.doc](https://github.com/ljk5403/libnku/raw/master/B类课/大一第二学期高数期末试题合集（非信息类）/经济类&管理类高数真题答案(仅供参考！)(级数部分)(带部分解析)by兆筱.doc)  
     - [数学分析3-1](https://github.com/ljk5403/libnku/tree/master/B类课/数学分析3-1)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/B类课/数学分析3-1/README.md)  
         - [数学分析3-1(伯苓班)--期中考试--2014级.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/数学分析3-1/数学分析3-1(伯苓班)--期中考试--2014级.pdf)  
@@ -101,6 +108,8 @@
 - [D类课](https://github.com/ljk5403/libnku/tree/master/D类课)  
 - [E类课](https://github.com/ljk5403/libnku/tree/master/E类课)  
 - [专业攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略)  
+    - [数学类攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略)  
+        - [课程及攻略.md](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略/课程及攻略.md)  
     - [通用选课攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略/通用选课攻略)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/专业攻略/通用选课攻略/README.md)  
         - [2019-2020第一学期选课手册（完整+分类）.xlsx](https://github.com/ljk5403/libnku/raw/master/专业攻略/通用选课攻略/2019-2020第一学期选课手册（完整+分类）.xlsx)  
@@ -123,7 +132,7 @@
 
 方式：请通过Issue或者PR指出错误，或者发邮件到<libnku@outlook.com>。
 
-格式：
+建议的格式：
 - 纠错：以【纠错】开头。
 - 提供资料：以【资料】开头，如需注明来源请在文件中注明或在邮件中说明。文件名格式为“科目--资料类型--时间“，时间建议以”20xx级“为标准。~~当然你也可以把这个工作交给小编。~~
 
@@ -138,7 +147,7 @@
 3.  提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
 **Note：请确保文件名与文件夹名没有空格！**  
-> Why: 文件名与文件夹名中的空格会导致README中插入链接困难！
+> Why: 文件名与文件夹名中的空格会导致README中插入链接出错！
 
 ## 许可
 
