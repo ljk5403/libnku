@@ -58,7 +58,7 @@
         - [大物II-1--考试答案--2006级.doc](https://github.com/ljk5403/libnku/raw/master/A类课/大学物理学基础I/大物II-1--考试答案--2006级.doc)  
     - [大学物理学基础II](https://github.com/ljk5403/libnku/tree/master/A类课/大学物理学基础II)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/A类课/大学物理学基础II/README.md)  
-        - [大物下册答案(旧版）.pdf](https://github.com/ljk5403/libnku/raw/master/A类课/大学物理学基础II/大物下册答案(旧版）.pdf)  
+        - [大物下册答案（旧版）.pdf](https://github.com/ljk5403/libnku/raw/master/A类课/大学物理学基础II/大物下册答案（旧版）.pdf)  
     - [数据结构与算法](https://github.com/ljk5403/libnku/tree/master/A类课/数据结构与算法)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/A类课/数据结构与算法/README.md)  
         - [各章源代码](https://github.com/ljk5403/libnku/tree/master/A类课/数据结构与算法/各章源代码)  
