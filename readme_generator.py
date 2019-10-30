@@ -36,6 +36,11 @@ def convert_to_GFM_Anchor(string):
     new_string=string
     return new_string.replace(' ','-')
 
+def replace_blank(string):
+    string.replace(chr(32),'_')
+    string.replace(chr(9),'_')
+    return string
+
 def let_README_first(names):
     """将README.md放在第一个"""
     if 'README.md' in names:
@@ -46,9 +51,10 @@ def get_dir_struct(sdir,pdir,level):
     print(tab_adder(level-1)+'['+pdir+']('+convert_to_GFM_Anchor(sourcelib+sdir)+')  ',file=f)
     names = [name for name in listdir_nohidden(sdir)
             if os.path.isfile(os.path.join(sdir, name))]
-    names.sort()
+    bnames=names.sort()
     let_README_first(names)
     for x in names:
+        replace_blank(x)
         if x.endswith(".md"):
             print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
         else:
