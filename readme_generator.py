@@ -33,13 +33,7 @@ def tab_adder(level):
     return string+"- "
 
 def convert_to_GFM_Anchor(string):
-    new_string=string
-    return new_string.replace(' ','-')
-
-def replace_blank(string):
-    string = string.replace(chr(32),'_')
-    string = string.replace(chr(9),'_')
-    return string
+    return string.replace(' ','-')
 
 def let_README_first(names):
     """将README.md放在第一个"""
@@ -54,7 +48,6 @@ def get_dir_struct(sdir,pdir,level):
     names.sort()
     let_README_first(names)
     for x in names:
-        #x=replace_blank(x)
         if x.endswith(".md"):
             print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+convert_to_GFM_Anchor(x)+')  ',file=f)
         else:
