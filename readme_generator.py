@@ -37,8 +37,8 @@ def convert_to_GFM_Anchor(string):
     return new_string.replace(' ','-')
 
 def replace_blank(string):
-    string.replace(chr(32),'_')
-    string.replace(chr(9),'_')
+    string = string.replace(chr(32),'_')
+    string = string.replace(chr(9),'_')
     return string
 
 def let_README_first(names):
@@ -51,14 +51,14 @@ def get_dir_struct(sdir,pdir,level):
     print(tab_adder(level-1)+'['+pdir+']('+convert_to_GFM_Anchor(sourcelib+sdir)+')  ',file=f)
     names = [name for name in listdir_nohidden(sdir)
             if os.path.isfile(os.path.join(sdir, name))]
-    bnames=names.sort()
+    names.sort()
     let_README_first(names)
     for x in names:
-        replace_blank(x)
+        #x=replace_blank(x)
         if x.endswith(".md"):
-            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+x+')  ',file=f)
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+convert_to_GFM_Anchor(x)+')  ',file=f)
         else:
-            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(downloadlib+sdir)+'/'+x+')  ',file=f)
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(downloadlib+sdir)+'/'+convert_to_GFM_Anchor(x)+')  ',file=f)
 
     dirnames = [name for name in listdir_nohidden(sdir)
             if os.path.isdir(os.path.join(sdir, name))]

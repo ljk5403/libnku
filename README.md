@@ -117,13 +117,13 @@
     - [药用植物学-2016级](https://github.com/ljk5403/libnku/tree/master/D类课/药用植物学-2016级)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/D类课/药用植物学-2016级/README.md)  
         - [01药用植物讲稿1-绪论.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/01药用植物讲稿1-绪论.pdf)  
-        - [02第一节  根.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/02第一节  根.pdf)  
-        - [03第二节  茎.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/03第二节  茎.pdf)  
-        - [04第三节  叶.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/04第三节  叶.pdf)  
-        - [05第四节  花(1).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/05第四节  花(1).pdf)  
-        - [06第四节  花(2).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/06第四节  花(2).pdf)  
-        - [07第四节  花(3).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/07第四节  花(3).pdf)  
-        - [08第五节  果实.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/08第五节  果实.pdf)  
+        - [02第一节  根.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/02第一节--根.pdf)  
+        - [03第二节  茎.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/03第二节--茎.pdf)  
+        - [04第三节  叶.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/04第三节--叶.pdf)  
+        - [05第四节  花(1).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/05第四节--花(1).pdf)  
+        - [06第四节  花(2).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/06第四节--花(2).pdf)  
+        - [07第四节  花(3).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/07第四节--花(3).pdf)  
+        - [08第五节  果实.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/08第五节--果实.pdf)  
         - [09各论01-裸子植物6.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/09各论01-裸子植物6.pdf)  
         - [09各论02-被子植物木金桑马蓼苋藜7.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/09各论02-被子植物木金桑马蓼苋藜7.pdf)  
         - [09各论03-石竹睡毛小防己科5.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/09各论03-石竹睡毛小防己科5.pdf)  
@@ -179,7 +179,7 @@
 
 3.  提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
-**Note：请确保文件名与文件夹名没有空格！**  
+**Note：文件名与文件夹名中的空格会被替换为 “_“ ！**  
 > Why: 文件名与文件夹名中的空格会导致README中插入链接出错！
 
 ## 许可
