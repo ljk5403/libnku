@@ -41,6 +41,7 @@
     - [军事理论](https://github.com/ljk5403/libnku/tree/master/A类课/军事理论)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/A类课/军事理论/README.md)  
         - [军理--知识与题库.docx](https://github.com/ljk5403/libnku/raw/master/A类课/军事理论/军理--知识与题库.docx)  
+        - [军理页码标记.docx](https://github.com/ljk5403/libnku/raw/master/A类课/军事理论/军理页码标记.docx)  
     - [大学物理学基础I](https://github.com/ljk5403/libnku/tree/master/A类课/大学物理学基础I)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/A类课/大学物理学基础I/README.md)  
         - [大学物理学基础教程教学指导上册.pdf](https://github.com/ljk5403/libnku/raw/master/A类课/大学物理学基础I/大学物理学基础教程教学指导上册.pdf)  
