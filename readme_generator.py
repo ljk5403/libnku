@@ -49,9 +49,9 @@ def get_dir_struct(sdir,pdir,level):
     let_README_first(names)
     for x in names:
         if x.endswith(".md"):
-            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir)+'/'+convert_to_GFM_Anchor(x)+')  ',file=f)
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(sourcelib+sdir+'/'+x)+')  ',file=f)
         else:
-            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(downloadlib+sdir)+'/'+convert_to_GFM_Anchor(x)+')  ',file=f)
+            print(tab_adder(level)+'['+x+']('+convert_to_GFM_Anchor(downloadlib+sdir+'/'+x)+')  ',file=f)
 
     dirnames = [name for name in listdir_nohidden(sdir)
             if os.path.isdir(os.path.join(sdir, name))]
