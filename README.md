@@ -67,6 +67,8 @@
 
 3.  提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
+4.  注意不需要主动更改 `README.md`，维护者将定期扫描更新目录。
+
 
 ## 资料目录
 
@@ -148,6 +150,9 @@
         - [高等代数2-2--期中试题--2006级.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/高等代数与解析几何2-2/高等代数2-2--期中试题--2006级.pdf)  
 - [C类课](https://github.com/ljk5403/libnku/tree/master/C类课)  
 - [D类课](https://github.com/ljk5403/libnku/tree/master/D类课)  
+    - [数院机器学习导论](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论)  
+        - [2020-2021第一学期机器学习导论期末复习笔记.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末复习笔记.pdf)  
+        - [2020-2021第一学期机器学习导论期末考试.md](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末考试.md)  
     - [药用植物学-2016级](https://github.com/ljk5403/libnku/tree/master/D类课/药用植物学-2016级)  
         - [README.md](https://github.com/ljk5403/libnku/tree/master/D类课/药用植物学-2016级/README.md)  
         - [01药用植物讲稿1-绪论.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/01药用植物讲稿1-绪论.pdf)  
@@ -170,11 +175,7 @@
         - [09各论10-唇形茄玄茜草科4.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/09各论10-唇形茄玄茜草科4.pdf)  
         - [09各论11-忍冬败葫桔菊科5.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/09各论11-忍冬败葫桔菊科5.pdf)  
         - [10各论单子叶植物综合.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/10各论单子叶植物综合.pdf)  
-        - [药用植物学-2016级（6张:页，打印用）.zip](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/药用植物学-2016级（6张:页，打印用）.zip)
-    - [数院机器学习导论](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论)
-        - [2020-2021第一学期机器学习导论期末考试.md](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末考试.md)
-        - [2020-2021第一学期机器学习导论期末复习笔记.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末复习笔记.pdf)
-        - [2020-2021课程主页](https://rymoon.github.io/blog.html)
+        - [药用植物学-2016级（6张每页，打印用）.zip](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/药用植物学-2016级（6张每页，打印用）.zip)  
 - [E类课](https://github.com/ljk5403/libnku/tree/master/E类课)  
 - [专业攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略)  
     - [数学类攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略)  

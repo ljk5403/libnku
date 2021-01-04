@@ -4,18 +4,19 @@
 维护者会定期通过此脚本更新目录。
 写给维护者：
 请务必确保该文件在项目文件夹内运行！
-由于markdown语法的缘故，文件名之间的空格肯能会导致链接失效，请在push前后均检查一下！
+由于markdown语法的缘故，文件名之间的空格可能会导致链接失效，请在push前后均检查一下！
 """
 import os
 
-#"""这个网址模版本用于GitHub，但为了方便大家下载，在gitee建立了镜像
+#这个网址模版用于GitHub
 sourcelib="https://github.com/ljk5403/libnku/tree/master/" #用于README等直接展示的文档
 downloadlib="https://github.com/ljk5403/libnku/raw/master/" #用于直接下载
-#"""
-"""由于gitee限制大于1M的文件必须登录下载，弃之
+#
+"""原计划为了方便大家下载，在gitee建立了镜像; 由于gitee限制大于1M的文件必须登录下载，弃之
 sourcelib="https://gitee.com/libnku/libnku/tree/master/" #用于README等直接展示的文档
 downloadlib="https://gitee.com/libnku/libnku/raw/master/" #用于直接下载
 """
+
 sourcedir=["A类课","B类课","C类课","D类课","E类课","专业攻略"]
 f=open("README.md","w")
 
