@@ -174,6 +174,7 @@
     - [数院机器学习导论](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论)
         - [2020-2021第一学期机器学习导论期末考试.md](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末考试.md)
         - [2020-2021第一学期机器学习导论期末复习笔记.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末复习笔记.pdf)
+        - [2020-2021课程主页](https://rymoon.github.io/blog.html)
 - [E类课](https://github.com/ljk5403/libnku/tree/master/E类课)  
 - [专业攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略)  
     - [数学类攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略)  
