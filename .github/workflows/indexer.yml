@@ -1,0 +1,17 @@
+name: libnku indexer
+on:
+  push:
+    paths-ignore: # 下列文件的变更不触发部署
+      - README.md
+
+jobs:
+  generate_index:
+    name: generate index
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - run: python readme_generator.py
