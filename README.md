@@ -63,7 +63,8 @@
 
 2. - 上传文件到已有文件夹：打开对应文件夹，点击绿色 Download 按钮旁的 **upload**，上传你的文件。
 
-   - 上传文件到新文件夹：打开任意文件夹，点击绿色 Download 按钮旁的 **upload**，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
+   - 上传文件到新文件夹：打开任意文件夹，点击绿色 Download 按钮旁的 **upload**，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。  
+   - 文件名格式：不能含有英文斜杠（/）、英文冒号（:）和空格，空格可以用"-"代替
 
 3.  提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
@@ -149,6 +150,7 @@
         - [高等代数2-2(数学类)--期末考试答案--2015级.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/高等代数与解析几何2-2/高等代数2-2(数学类)--期末考试答案--2015级.pdf)  
         - [高等代数2-2--期中试题--2006级.pdf](https://github.com/ljk5403/libnku/raw/master/B类课/高等代数与解析几何2-2/高等代数2-2--期中试题--2006级.pdf)  
 - [C类课](https://github.com/ljk5403/libnku/tree/master/C类课)  
+    - [README.md](https://github.com/ljk5403/libnku/tree/master/C类课/README.md)  
 - [D类课](https://github.com/ljk5403/libnku/tree/master/D类课)  
     - [数院机器学习导论](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论)  
         - [2020-2021第一学期机器学习导论期末复习笔记.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末复习笔记.pdf)  
@@ -177,6 +179,45 @@
         - [10各论单子叶植物综合.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/10各论单子叶植物综合.pdf)  
         - [药用植物学-2016级（6张每页，打印用）.zip](https://github.com/ljk5403/libnku/raw/master/D类课/药用植物学-2016级/药用植物学-2016级（6张每页，打印用）.zip)  
 - [E类课](https://github.com/ljk5403/libnku/tree/master/E类课)  
+    - [README.md](https://github.com/ljk5403/libnku/tree/master/E类课/README.md)  
+    - [健康教育](https://github.com/ljk5403/libnku/tree/master/E类课/健康教育)  
+        - [2019健康教育--疾病与预防.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/2019健康教育--疾病与预防.pptx)  
+        - [健康教育-1四大基石及行为健康.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-1四大基石及行为健康.pptx)  
+        - [健康教育-2性健康教育.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-2性健康教育.pptx)  
+        - [健康教育-3用眼卫生与眼保健.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-3用眼卫生与眼保健.ppt)  
+        - [健康教育-4运动外伤与处置.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-4运动外伤与处置.ppt)  
+        - [健康教育-5常见疾病.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-5常见疾病.pptx)  
+        - [健康教育-6传染病.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-6传染病.pptx)  
+        - [健康教育-7慢病预防.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-7慢病预防.pptx)  
+        - [健康教育-8药物使用.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-8药物使用.pptx)  
+        - [健康教育-心理健康4抑郁与焦虑.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康4抑郁与焦虑.ppt)  
+        - [健康教育-心理健康](https://github.com/ljk5403/libnku/tree/master/E类课/健康教育/健康教育-心理健康)  
+            - [健康教育-心理健康1.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康1.pptx)  
+            - [健康教育-心理健康2.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康2.pptx)  
+            - [健康教育-心理健康3,防御机制.docx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康3,防御机制.docx)  
+            - [健康教育-心理健康3.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康3.ppt)  
+            - [健康教育-心理健康4.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康4.ppt)  
+            - [健康教育-心理健康4抑郁与焦虑.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康4抑郁与焦虑.ppt)  
+            - [健康教育-心理健康5 .pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康5-.pptx)  
+            - [健康教育-心理健康6.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/健康教育-心理健康/健康教育-心理健康6.pptx)  
+        - [大学生心身保健](https://github.com/ljk5403/libnku/tree/master/E类课/健康教育/大学生心身保健)  
+            - [心身保健1-1慢病预防.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-1慢病预防.pptx)  
+            - [心身保健1-2性健康教育.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-2性健康教育.pptx)  
+            - [心身保健1-3心身医学与心理应激.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-3心身医学与心理应激.pptx)  
+            - [心身保健1-4心身疾病个案.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-4心身疾病个案.pptx)  
+            - [心身保健1-5营养及睡眠卫生.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-5营养及睡眠卫生.pptx)  
+            - [心身保健1-6运动卫生.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-6运动卫生.pptx)  
+            - [心身保健1-7常见疾病.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-7常见疾病.pptx)  
+            - [心身保健1-8传染病、药物使用.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-8传染病、药物使用.pptx)  
+            - [心身保健1-9突发事件紧急处置.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-9突发事件紧急处置.pptx)  
+        - [性教育](https://github.com/ljk5403/libnku/tree/master/E类课/健康教育/性教育)  
+            - [~$生殖健康.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/~$生殖健康.pptx)  
+            - [从怀孕到出生胎儿在妈妈肚子里生长发育全过程动画演示，太震撼了_视频在线观看 - 56.com.mp4](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/从怀孕到出生胎儿在妈妈肚子里生长发育全过程动画演示，太震撼了_视频在线观看---56.com.mp4)  
+            - [性健康.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/性健康.ppt)  
+            - [生殖健康.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/生殖健康.pptx)  
+            - [白马王子与白雪公主的故事.mp4](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/白马王子与白雪公主的故事.mp4)  
+            - [精子与卵子的相遇.mp4](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/精子与卵子的相遇.mp4)  
+            - [艾滋病为何难以治愈？4分钟带你了解HIV病毒.mp4](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/艾滋病为何难以治愈？4分钟带你了解HIV病毒.mp4)  
 - [专业攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略)  
     - [数学类攻略](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略)  
         - [课程及攻略.md](https://github.com/ljk5403/libnku/tree/master/专业攻略/数学类攻略/课程及攻略.md)  
