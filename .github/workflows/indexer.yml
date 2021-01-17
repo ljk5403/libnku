@@ -10,8 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - run: |
+        ls -la
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
           architecture: 'x64'
       - run: python readme_generator.py
+      - name: Update resources
+              uses: test-room-7/action-update-file@v1
+              with:
+                  file-path: README.md
+                  commit-msg: Auto update README
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
