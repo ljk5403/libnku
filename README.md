@@ -160,7 +160,7 @@
 - [C类课](https://github.com/ljk5403/libnku/tree/master/C类课)  
     - [README.md](https://github.com/ljk5403/libnku/tree/master/C类课/README.md)  
     - [2019—2020第一学期数学学院《数理方程》期末考试.pdf](https://github.com/ljk5403/libnku/raw/master/C类课/2019—2020第一学期数学学院《数理方程》期末考试.pdf)  
-    - [2020—2021第一学期《数学物理方程》期末考试(柴昊回忆）.pdf](https://github.com/ljk5403/libnku/raw/master/C类课/2020—2021第一学期《数学物理方程》期末考试(柴昊回忆）.pdf)  
+    - [2020—2021第一学期《数学物理方程》期末考试(柴昊回忆).pdf](https://github.com/ljk5403/libnku/raw/master/C类课/2020—2021第一学期《数学物理方程》期末考试(柴昊回忆).pdf)  
     - [2020—2021第一学期《泛函分析》期末考试.pdf](https://github.com/ljk5403/libnku/raw/master/C类课/2020—2021第一学期《泛函分析》期末考试.pdf)  
 - [D类课](https://github.com/ljk5403/libnku/tree/master/D类课)  
     - [2019-2020年第二学期《点集拓扑学》期末考试(柴昊回忆).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/2019-2020年第二学期《点集拓扑学》期末考试(柴昊回忆).pdf)  
