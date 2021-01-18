@@ -1,7 +1,5 @@
 # 南开大学课程攻略共享计划
 
-![](image/百年校庆.png)
-
 目录
 =================
 
@@ -68,7 +66,9 @@
 
 3.  提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
 
-4.  注意不需要主动更改 `README.md`，维护者将定期扫描更新目录。
+4.  注意不需要主动更改 `README.md`，每次提交新文件后 GitHub Action 将自动更新`README.md`。
+
+> 长期维护者注意：每次 GitHub Action 更新 `README.md` 将会产生一个commit，因此务必在开始给项目添加文件前 pull 一次！
 
 
 ## 资料目录
