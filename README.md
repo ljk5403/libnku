@@ -239,7 +239,6 @@
             - [心身保健1-8传染病、药物使用.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-8传染病、药物使用.pptx)  
             - [心身保健1-9突发事件紧急处置.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/大学生心身保健/心身保健1-9突发事件紧急处置.pptx)  
         - [性教育](https://github.com/ljk5403/libnku/tree/master/E类课/健康教育/性教育)  
-            - [~$生殖健康.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/~$生殖健康.pptx)  
             - [从怀孕到出生胎儿在妈妈肚子里生长发育全过程动画演示，太震撼了_视频在线观看 - 56.com.mp4](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/从怀孕到出生胎儿在妈妈肚子里生长发育全过程动画演示，太震撼了_视频在线观看---56.com.mp4)  
             - [性健康.ppt](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/性健康.ppt)  
             - [生殖健康.pptx](https://github.com/ljk5403/libnku/raw/master/E类课/健康教育/性教育/生殖健康.pptx)  
