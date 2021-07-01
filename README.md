@@ -172,6 +172,7 @@
     - [2020—2021第一学期《图论》期末考试.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/2020—2021第一学期《图论》期末考试.pdf)  
     - [2020—2021第一学期《有限群表示论》期末考试.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/2020—2021第一学期《有限群表示论》期末考试.pdf)  
     - [2020—2021第一学期数学学院《微分流形》期末考试(王津鹿官澄回忆).pdf](https://github.com/ljk5403/libnku/raw/master/D类课/2020—2021第一学期数学学院《微分流形》期末考试(王津鹿官澄回忆).pdf)  
+    - [操作系统与网络.md](https://github.com/ljk5403/libnku/tree/master/D类课/操作系统与网络.md)  
     - [数院机器学习导论](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论)  
         - [2020-2021第一学期机器学习导论期末复习笔记.pdf](https://github.com/ljk5403/libnku/raw/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末复习笔记.pdf)  
         - [2020-2021第一学期机器学习导论期末考试.md](https://github.com/ljk5403/libnku/tree/master/D类课/数院机器学习导论/2020-2021第一学期机器学习导论期末考试.md)  
